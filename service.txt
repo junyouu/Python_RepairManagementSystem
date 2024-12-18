@@ -1,0 +1,20 @@
+kevin|Laptop screen replacement|normal|380|Laptop screen has been replaced|15/10/2023|Completed|Paid
+james|Remove virus, malware or spyware|urgent|80|-|-|Incomplete|Pending
+robert|Laptop battery replacement|urgent|210|Laptop battery has been replaced|7/10/2023|Completed|Paid
+john|Troubleshot and fix computer running slow|normal|60|computer has been troubleshooted and run smoothly|9/10/2023|Completed|Pending
+thomas|Operating System Format and Installation|urgent|150|-|-|Incomplete|Pending
+dora|Laptop screen replacement|normal|380|Laptop screen has been replaced|14/10/2023|Completed|Paid
+Joey|Remove virus, malware or spyware|urgent|80|Virus and malware are remove|22/10/2023|Completed|Paid
+Luka|Laptop battery replacement|urgent|210|Laptop battery has been replaced|3/10/2023|Completed|Paid
+Albert|Troubleshot and fix computer running slow|normal|60|-|-|Incomplete|Pending
+Joe|Laptop screen replacement|normal|380|Laptop screen has been replaced|11/10/2023|Completed|Pending
+Paul|Remove virus, malware or spyware|urgent|80|Virus and malware are remove|29/10/2023|Completed|Paid
+George|Operating System Format and Installation|urgent|150|-|-|Incomplete|Pending
+Bruce|Laptop screen replacement|normal|380|Laptop screen has been replaced|6/10/2023|Completed|Pending
+yitang|Data backup and recovery|normal|80|-|23/10/2023|Completed|Paid
+weilik|Operating System Format and Installation|urgent|150|-|-|Incomplete|Pending
+weizhen|Laptop screen replacement|normal|380|Laptop screen has been replaced|15/10/2023|Completed|Paid
+guangwei|Remove virus, malware or spyware|urgent|80|Virus and malware are remove|22/10/2023|Completed|Paid
+deming|Laptop battery replacement|urgent|210|Laptop battery has been replaced|3/10/2023|Completed|Paid
+bai|Troubleshot and fix computer running slow|normal|60|computer has been troubleshooted and run smoothly|9/10/2023|Completed|Paid
+marcus|Operating System Format and Installation|urgent|150|Operating System of the computer has been formatted|19/10/2023|Completed|Paid
